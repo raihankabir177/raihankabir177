@@ -1,8 +1,8 @@
 ## Hi there 👋
-# Hi, I'm Mohammad Raihan Kabir (Rahu) 👋
+# I'm Mohammad Raihan Kabir 👋
 
 🎓 **Final-year Computer Science & Engineering student** at **Daffodil International University**  
-💻 **Software Developer** | Networking | Machine Learning
+💻 **Software Developer** | Networking 
 
 [![Email](https://img.shields.io/badge/Email-raihankabirrahu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihankabirrahu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raihankabir177-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihankabir177)
@@ -10,10 +10,6 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B880--1796317319-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801796317319)
 
 ---
-
-## 👨‍💻 About Me
-
-I'm a final-year CSE student seeking a **Software Engineer internship** where I can apply my problem-solving and programming skills. I have a solid foundation in data structures and algorithms, and hands-on experience with software development and system-level projects. I'm focused on writing clean, efficient code and improving my practical engineering skills.
 
 ## 🎓 Education
 
@@ -46,22 +42,6 @@ I'm a final-year CSE student seeking a **Software Engineer internship** where I 
 - PostgreSQL
 - Machine Learning
 
-## 🚀 Projects
-
-### 🛡️ ML/DL Model Benchmarking for DDoS Detection in SDN
-**Final Year Defense Project**
-
-- Benchmarking machine learning and deep learning models, including Random Forest, XGBoost, and CNN-LSTM, for DDoS detection in Software-Defined Networking (SDN).
-- Evaluating model performance with different data-balancing strategies: no balancing, SMOTE, and CTGAN.
-- Analyzing how data-balancing techniques affect model ranking.
-
-### 🖧 Mini Office Network — Cisco Packet Tracer
-
-- Designed and configured a mini office LAN topology.
-- Configured routers, switches, and IP addressing.
-- Implemented basic access control and tested connectivity across departments.
-
----
 
 ## 📫 Contact Me
 
